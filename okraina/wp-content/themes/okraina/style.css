@@ -1,0 +1,351 @@
+/*!
+Theme Name: Okraina-landing
+Theme URI: https://mnogoland.ru
+Author: Dmitriy Ivahnov
+Author URI: https://mnogoland.ru
+Description: Okraina-landing
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: okraina
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+okraina is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+.wpcf7-response-output{
+	display: none;
+}
+.pop_great_visible{
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+	position: absolute;
+	display: block;
+	width: 690px;
+	height: 250px;
+	background: #FFFFFF;
+	border-radius: 25px;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+	align-items: center;
+}
+.pop_great_visible_3{
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+	position: absolute;
+	display: block;
+	width: 690px;
+	height: 250px;
+	z-index: 8888;
+	background: #FFFFFF;
+	border-radius: 25px;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+	align-items: center;
+}
+.pop_great_visible_2{
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+	position: absolute;
+	display: block;
+	width: 690px;
+	height: 250px;
+	z-index: 8888;
+	background: #FFFFFF;
+	border-radius: 25px;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+	align-items: center;
+}
+.pop_great_visible_1{
+	left:34.5%;
+	z-index: 9999999;
+	position: absolute;
+	display: block;
+	width: 690px;
+	height: 250px;
+	background: #FFFFFF;
+	border-radius: 25px;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+	align-items: center;
+}
+.pop_great_visible_3
+	.cirle_ico{
+		width: 65px;
+		height: 65px;
+		background: linear-gradient(231.07deg, #F87E0D 0%, #F44D01 91.41%);
+		margin-bottom: 19px;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+.pop_great_visible_3
+	.heshteg_black{
+		margin-bottom: 15px;
+		font-weight: 800;
+		font-size: 21px;
+		line-height: 26px;
+	}
+.pop_great_visible_3
+	.text_pop{
+		font-size: 18px;
+		line-height: 22px;
+		color: #4D434B;
+	}
+.pop_great_visible_2
+	.cirle_ico{
+		width: 65px;
+		height: 65px;
+		background: linear-gradient(231.07deg, #F87E0D 0%, #F44D01 91.41%);
+		margin-bottom: 19px;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+.pop_great_visible_2
+	.heshteg_black{
+		margin-bottom: 15px;
+		font-weight: 800;
+		font-size: 21px;
+		line-height: 26px;
+	}
+.pop_great_visible_2
+	.text_pop{
+		font-size: 18px;
+		line-height: 22px;
+		color: #4D434B;
+	}
+.pop_great_visible_1
+	.cirle_ico{
+		width: 65px;
+		height: 65px;
+		background: linear-gradient(231.07deg, #F87E0D 0%, #F44D01 91.41%);
+		margin-bottom: 19px;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+.pop_great_visible_1
+	.heshteg_black{
+		margin-bottom: 15px;
+		font-weight: 800;
+		font-size: 21px;
+		line-height: 26px;
+	}
+.pop_great_visible_1
+	.text_pop{
+		font-size: 18px;
+		line-height: 22px;
+		color: #4D434B;
+	}
+.pop_great_visible
+	.cirle_ico{
+		width: 65px;
+		height: 65px;
+		background: linear-gradient(231.07deg, #F87E0D 0%, #F44D01 91.41%);
+		margin-bottom: 19px;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+.pop_great_visible
+	.heshteg_black{
+		margin-bottom: 15px;
+		font-weight: 800;
+		font-size: 21px;
+		line-height: 26px;
+	}
+.pop_great_visible
+	.text_pop{
+		font-size: 18px;
+		line-height: 22px;
+		color: #4D434B;
+	}
+.pop_great{
+	display: none;
+	width: 690px;
+	height: 250px;
+	background: #FFFFFF;
+	border-radius: 25px;
+}
+.pop_great_1{
+	display: none;
+	width: 690px;
+	height: 250px;
+	background: #FFFFFF;
+	border-radius: 25px;
+}
+.pop_great_2{
+	display: none;
+	width: 690px;
+	height: 250px;
+	background: #FFFFFF;
+	border-radius: 25px;
+}
+.pop_great_3{
+	display: none;
+	width: 690px;
+	height: 250px;
+	background: #FFFFFF;
+	border-radius: 25px;
+}
+.wpcf7-not-valid-tip{
+	position: absolute;
+	margin-top: 5px;
+    margin-left: 25px;
+}
+.header .header-phone .flex_number{
+	display: flex;
+}
+.pop_news{
+	height: 100%;
+}
+.pop_news_fl img{
+	width: 474px;
+}
+.flex_slider_nav
+	.slider-nav{
+		margin-top: -205px;
+	}
+.pop_news{
+	padding-bottom: 40px;
+}
+.wpcf7-form
+	p{
+		display: flex;
+}
+.corporate_network_left 
+	.flex_corporate_network
+		.btn_main{
+			width: 247px;
+			font-weight: bold;
+			font-size: 16px;
+			line-height: 20px;
+			padding: 0px;
+			font-family: 'Montserrat';
+    		font-style: normal;
+			border: none;
+		
+}
+.join_block_r 
+	.flex 
+		.btn_main{
+			width: 247px;
+			font-weight: bold;
+			font-size: 16px;
+			line-height: 20px;
+			padding: 0px;
+			font-family: 'Montserrat';
+    		font-style: normal;
+			border: none;
+			color: white;
+}
+.pop_partnership
+	.wpcf7-form{
+		display: flex;
+		flex-direction: column;
+}
+.pop_partnership
+	.wpcf7-form
+		.btn_main{
+			width: 274px;
+			height: 71px;
+			font-weight: bold;
+			font-size: 16px;
+			line-height: 20px;
+			padding: 0px;
+			font-family: 'Montserrat';
+    		font-style: normal;
+			border: none;
+			color: white;
+}
+.pop_partnership
+	.wpcf7-form
+		.text-22{
+			margin-bottom: 13px;
+}
+#wpcf7-f139-o3
+	form
+		p{
+			flex-direction: column;
+    		align-items: center;
+		}
+#wpcf7-f139-o3
+	form
+		.wpcf7-response-output{
+			position: absolute;
+			top: 240px;
+		}
+#wpcf7-f139-o2
+	form
+		p{
+			flex-direction: column;
+    		align-items: center;
+		}
+#wpcf7-f139-o2
+	form
+		.wpcf7-response-output{
+			position: absolute;
+			top: 240px;
+		}
+@media screen and (max-width: 767px){
+	.fl_1 
+		img{
+			max-width: 100%;
+		}
+	.corporate_network_image_block 
+		img{
+			max-height: 100%;
+		}
+	.pop_great_visible, .pop_great_visible_2, .pop_great_visible_3, .pop_great_visible_1{
+		width: 320px;
+		z-index: 99999;
+	}
+	.wpcf7-form
+		p{
+			flex-direction: column;
+		}
+	.corporate_network_left 
+		.flex_corporate_network 
+			form
+				p{
+					align-items: normal;
+				}
+	.corporate_network_left 
+		.flex_corporate_network 
+			.btn_main{
+				width: 100%;
+			}
+	.join_block_r 
+		.flex 
+			.btn_main{
+				width: 100%;
+			}
+	.join_block_r 
+		.flex
+			form
+				p{
+					align-items: normal;
+				}
+	
+}

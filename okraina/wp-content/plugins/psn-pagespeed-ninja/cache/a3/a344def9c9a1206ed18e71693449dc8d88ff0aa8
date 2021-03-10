@@ -1,0 +1,809 @@
+9b14e7d837f4883657580a852c0e54c48724a2fc
+
+Content-Type: text/html; charset=UTF-8
+
+<!doctype html>
+<html lang="ru-RU">
+<head><!--[if IE 8]><script src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.6.0/ie8.js"></script><![endif]--><link rel="dns-prefetch" href="//s.w.org"><script>!function(e,t){function n(){for(var e,n=t.getElementsByTagName("link"),r=0;r<n.length;r++)"preload"===(e=n[r]).rel&&"style"===e.getAttribute("as")&&(!function(e,n,r){function a(){l.addEventListener&&l.removeEventListener("load",a),l.media=r||"all"}var l=t.createElement("link");l.rel="stylesheet",l.href=e,l.media="only x";l.addEventListener&&l.addEventListener("load",a);(function e(){t.body?n.parentNode.insertBefore(l,n):setTimeout(e)})(),function e(){for(var n=t.styleSheets,r=n.length;r--;)if(n[r].href===l.href)return a();setTimeout(e)}()}(e.href,e,e.media),e.rel=null)}function r(){n(),clearInterval(a)}try{if(t.createElement("link").relList.supports("preload"))return}catch(e){}var a=setInterval(n,300);e.addEventListener&&e.addEventListener("load",r),e.attachEvent&&e.attachEvent("onload",r),n()}(window,document);</script><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<style>[data-aos^=fade][data-aos^=fade],[data-aos^=zoom][data-aos^=zoom]{opacity:0}.sm{box-sizing:border-box;z-index:9999}.sm,.sm li{list-style:none;margin:0;padding:0;line-height:normal;direction:ltr;text-align:left}.sm,.sm a,.sm li{position:relative;display:block}.sm::after{content:"";display:block;height:0;font:0/0 serif;clear:both;overflow:hidden}.sm *,.sm ::after,.sm ::before{box-sizing:inherit}.sm-clean{background:#eee}.sm-clean a{padding:13px 58px 13px 20px;color:#555;font-size:18px;font-weight:400;line-height:17px;text-decoration:none}.sm-clean>li:first-child>a{border-radius:5px 5px 0 0}.sm-clean>li:last-child>a{border-radius:0 0 5px 5px}.sm-clean li{border-top:1px solid rgba(0,0,0,.05)}.sm-clean>li:first-child{border-top:0}.mfp-hide,html.optml_no_js img[data-opt-src]{display:none!important}[data-aos=fade-right]{transform:translate3d(-100px,0,0)}[data-aos=zoom-in]{transform:scale(.6)}*{-webkit-box-sizing:border-box;box-sizing:border-box}*,:after,:before{padding:0;margin:0;outline:0;border:0}[type=submit]{-webkit-appearance:button;background:0 0}input[type=submit],input[type=tel]{-webkit-appearance:none}nav,nav li,ul,ul li{list-style-type:none}a{display:inline-block;text-decoration:none}body{font-family:'Montserrat';font-style:normal;font-size:14px;font-weight:400;background:#fff;overflow-x:hidden;background:#e5e5e5;color:#4d434b}.page-container{max-width:1920px;width:100%;margin:0 auto;overflow:hidden}.container{max-width:1570px;width:100%;padding:0;margin:0 auto}.heshteg_dop{font-weight:700;font-size:20px;line-height:24px;text-transform:uppercase;color:rgba(255,255,255,.5)}.btn_main,.p_dop{font-weight:700;font-size:22px;line-height:27px;color:#fff}.btn_main{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:274px;height:71px;background:linear-gradient(87.43deg,#f44900 0,#e5740d 54.18%,#fa7e0c 98.58%);border-radius:53px;font-size:16px;line-height:20px}.white-popup{position:relative;background:#fff;max-width:690px;width:100%;height:532px;margin:0 auto;border-radius:25px}.corporate_network_left .flex_corporate_network form svg,.white-popup form svg{position:absolute;z-index:2;left:25px;bottom:12px;-webkit-transform:translate(0,-50%);transform:translate(0,-50%)}.mfp-hide{}.corporate_network{background:url(/wp-content/themes/okraina/img/Group_1.svg);background-repeat:no-repeat;margin-top:-5px}.corporate_network_fl,.corporate_network_image_block{display:-webkit-box;display:-ms-flexbox;display:flex;margin-top:46px}.corporate_network_right img{margin-left:60px;max-width:1150px;margin-top:-125px}.corporate_network_image_block{margin-top:111px;padding-left:20px;padding-right:20px;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.about_fl img,.corporate_network_image_block img{border-radius:20px;max-width:470px;max-height:334px}.corporate_network_left h1{font-weight:900;font-size:80px;line-height:98px;text-transform:uppercase;color:#fff;margin-top:19px}.corporate_network_left .p_dop{margin-top:26px}.corporate_network_left .flex_corporate_network,.corporate_network_left .flex_corporate_network_1{display:-webkit-box;display:-ms-flexbox;display:flex;margin-top:64px}.corporate_network_left .flex_corporate_network form{-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative}.corporate_network_left .flex_corporate_network input{border:2px solid #fff;border-radius:53px;margin-right:22px;background-color:inherit;width:347px;height:71px;padding:0 30px 0 80px;font-weight:500;font-size:16px;line-height:20px;color:#fff}.corporate_network_left .flex_corporate_network_1{margin-top:32px}.corporate_network_left .p_dop_1{margin-top:20px;margin-bottom:46px;font-weight:500;font-size:13px;line-height:16px;color:rgba(255,255,255,.7)}.corporate_number_l,.corporate_number_r{font-weight:800;text-transform:uppercase;-webkit-box-shadow:0 4px 30px rgba(159,186,206,.25);box-shadow:0 4px 30px rgba(159,186,206,.25);border-radius:0 30px 30px 30px;color:#4d434b}.corporate_number_r{font-size:25px;line-height:41px}.corporate_number_l span,.corporate_number_r span{color:#00b1eb;font-weight:800;text-align:center;text-transform:uppercase}.corporate_number_l .number_span{font-size:80px;line-height:98px}.corporate_number_l .days_span{font-size:30px;line-height:37px}.corporate_number_r .price_span,.corporate_number_r span{font-size:57px;line-height:69px}.corporate_number_r .mounth_span{font-size:30px;line-height:37px}.corporate_number_l{font-size:25px;line-height:41px;margin-right:29px;text-align:center;width:159px;height:299px;padding-top:24px;background:#fff}.corporate_number_r{width:482px}.corporate_number_r .corporate_number_bot,.corporate_number_r .corporate_number_top{padding-left:21px;background:#fff;-webkit-box-shadow:0 4px 30px rgba(159,186,206,.25);box-shadow:0 4px 30px rgba(159,186,206,.25);border-radius:0 30px 30px 30px}.corporate_number_r .corporate_number_top{font-size:21px;line-height:26px;height:159px;padding-top:24px}.corporate_number_r .corporate_number_bot{height:130px;margin-top:10px;padding-top:11px}.parallax_1{position:absolute!important}.paralax_1_1,.paralax_1_2,.paralax_1_3,.paralax_1_4,.paralax_1_5,.paralax_1_6,.paralax_1_7{z-index:999}.paralax_1_1{left:800px!important;top:250px!important}.paralax_1_2{left:780px!important;top:310px!important}.paralax_1_3{left:20px!important;top:50px!important}.paralax_1_4{left:-15px!important;top:400px!important}.paralax_1_5{top:890px!important;left:1000px!important}.paralax_1_6{left:1540px!important;top:530px!important}.paralax_1_7{left:1580px!important;top:500px!important}.partnership{margin-top:-70px;background:url(/wp-content/themes/okraina/img/Group_2.svg);background-repeat:no-repeat}.partnership .container{padding-left:122px;padding-top:260px;padding-bottom:65px}.partnership_fl{display:-webkit-box;display:-ms-flexbox;display:flex}.partnership_left{margin-right:204px}.partnership_left .partnership_left_txt_open{font-weight:800;font-size:21px;line-height:26px;text-transform:uppercase;color:#4d434b}.partnership_left .partnership_left_txt_number{font-weight:700;font-size:200px;line-height:244px;text-align:center;text-transform:uppercase;color:#4d434b}.about_fl img{margin-right:74px;max-width:650px}.model_block_l_cart img,.model_block_r_cart img{position:absolute;left:-31px;top:-26px}.parallax_2{position:absolute}.paralax_2_1,.paralax_2_2,.paralax_2_3{z-index:9999}.paralax_2_1{top:220px!important}.paralax_2_2{width:169px;height:123px;top:950px!important;left:1550px!important}.paralax_2_3{top:235px!important;left:1720px!important}.fl_1 img{max-width:670px;max-height:532px;margin-right:19px}.success_story_title_2 img{margin-top:10px}.slider-nav{margin-top:-185px;margin-left:650px;max-width:650px}.news_block_btn img{margin-left:15px}.parallax_3{position:absolute}.paralax_3_1,.paralax_3_2,.paralax_3_3,.paralax_3_4,.paralax_3_6,.paralax_3_7{z-index:999}.paralax_3_1{top:850px!important;left:825px!important}.paralax_3_2{left:20px!important;top:490px!important}.paralax_3_3{top:920px!important}.paralax_3_4{top:1000px!important}.paralax_3_5{top:540px!important;left:845px!important;z-index:1000}.paralax_3_6{top:550px!important;left:880px!important}.paralax_3_7{left:-30px!important;top:500px!important}.header,.header-phone,.header-social{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.header{padding-top:28px;color:#fff}.reverse{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.logo{z-index:9999}.header-phone{margin-left:50px;z-index:9999}.header-phone img{margin-right:10px}#main-menu li a,.header-phone-txt{font-weight:600;font-size:20px;line-height:24px;color:#fff}.header-social{z-index:9999;margin-left:280px}#main-menu,.header-social a,.main-nav{display:-webkit-box;display:-ms-flexbox;display:flex}.header-social a{width:39px;height:39px;border-radius:50%;background:#fff;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin-right:11px}.menu{margin-right:130px;width:608px}#main-menu,.main-nav{width:100%}.main-nav{position:relative;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0 12px 0 0;border-radius:4px 0 0 4px}#main-menu{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}#main-menu li a{font-size:16px;line-height:20px}#main-menu-state,.main-menu-btn{display:none}.sm-clean{padding:0;background:0 0;border-radius:0}.sm-clean a{font-family:'Montserrat';font-style:normal}.fotter_block_1 .fotter_mail img,.fotter_block_1 .fotter_tell img,.fotter_block_2 .fotter_tell img{margin-right:20px}:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-20:#005a87}.wpcf7-form-control-wrap{position:relative}.header .header-phone .flex_number,.wpcf7-form{display:flex}.corporate_network_left .flex_corporate_network .btn_main{width:247px;font-weight:700;font-size:16px;line-height:20px;padding:0;font-family:'Montserrat';font-style:normal;border:0}img[data-opt-src]:not([data-opt-lazy-loaded]){opacity:.75;-webkit-filter:blur(8px);-moz-filter:blur(8px);-o-filter:blur(8px);-ms-filter:blur(8px);transform:scale(1.04);-webkit-transform:translate3d(0,0,0)}@media (min-width:768px){.sm-clean li{float:left;border-top:0}.sm-clean a{white-space:nowrap;padding:12px;color:#555;border-radius:0!important}.sm-clean{padding:0 10px;background:#eee;border-radius:100px}}@media only screen and (max-width:1200px){.container{padding:0 15px;max-width:100%}.main-menu-btn-icon{top:50%;left:2px}.main-menu-btn-icon,.main-menu-btn-icon:after,.main-menu-btn-icon:before{display:block;position:absolute;height:2px;width:24px;background:#fff}.main-menu-btn-icon:before{content:'';top:-7px;left:0}.main-menu-btn-icon:after{content:'';top:7px;left:0}#main-menu-state:not(:checked)~#main-menu{display:none}.main-menu-btn{float:right;margin:6px 10px;position:relative;display:inline-block;width:29px;height:29px;text-indent:29px;white-space:nowrap;overflow:hidden}#main-menu{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:start;padding-left:20px;padding-top:40px}}@media only screen and (max-width:575px){.container{padding:0 10px}}@media only screen and (max-width:767px){#main-menu{padding-left:20px}.white-popup{height:100%}.header-phone,.header-social{margin-left:0}.social-inst{margin-right:0}.corporate_network_left .flex_corporate_network input,.flex_corporate_network .btn_main{width:100%}.corporate_network_left .flex_corporate_network,.header,.reverse{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.reverse{-webkit-box-direction:reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse}.main-nav{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;padding:0}.main-menu-btn{margin:5px 0}.header-social{margin-bottom:10px}.corporate_network_left h1{font-size:60px;line-height:68px}.corporate_network_left .flex_corporate_network{margin-top:20px}.corporate_network_left .p_dop_1{margin-bottom:20px;max-width:300px}.corporate_number_l{max-width:129px;width:100%;font-size:20px;line-height:40px}.corporate_number_r{max-width:482px;width:100%;font-size:18px}.corporate_number_r .corporate_number_top{font-size:18px}.corporate_number_r .price_span,.corporate_number_r span{font-size:36px;line-height:50px}.corporate_number_r .mounth_span{font-size:22px;line-height:40px}.corporate_network_image_block{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.corporate_network_image_block img{max-width:400px;margin-bottom:10px}.model_block_l_cart img,.model_block_r_cart img{display:none}.about_fl img,.fl_1 img{margin-right:0}.join_fl .join_block_l img{margin-top:120px}.about_fl img{max-width:100%;margin-bottom:20px}.menu{position:absolute;max-width:50px;left:0;top:0}.main-menu-btn{text-indent:-9999px}.corporate_network_fl{display:block}}@media only screen and (max-width:320px){#main-menu{padding-left:10px}#main-menu li a{font-size:12px}.white-popup{height:100%}.corporate_network_left h1{font-size:50px;line-height:58px}.corporate_network_left .flex_corporate_network input{width:300px}.corporate_number_r .corporate_number_bot,.corporate_number_r .corporate_number_top{padding-left:5px;font-size:18px;line-height:28px}.corporate_number_r .price_span{font-size:27px;line-height:38px}.corporate_number_r span{font-size:28px;line-height:20px}.corporate_number_r .mounth_span{font-size:18px;line-height:20px}.corporate_number_r .corporate_number_bot{padding-top:25px}.corporate_number_r{margin-right:20px}}@media only screen and (max-width:1680px){.paralax_1_7{left:1420px!important}.paralax_1_6{left:1328px!important}.paralax_2_3{left:1520px!important}.paralax_2_2{left:1350px!important}.corporate_network_right img{width:115%}}@media only screen and (max-width:1600px){.paralax_1_6{left:1248px!important}.paralax_2_3{left:1460px!important}.paralax_2_2{top:910px!important;left:850px!important}.container{max-width:1380px}.menu{margin-right:110px}.header-social{margin-left:110px}.corporate_network_image_block img{max-width:440px;width:100%}.partnership_left{margin-right:90px}.corporate_network_right img{margin-top:-75px}.slider-nav{max-width:585px;margin-left:620px}.news_block .news_block_btn img{max-width:20px}.news_block a img{max-width:330px;width:100%}}@media only screen and (max-width:1440px){.paralax_1_6{left:1085px!important;top:450px!important}.paralax_1_7,.paralax_2_3{top:400px!important;left:1300px!important}.paralax_2_3{top:270px!important}.paralax_2_2{top:985px!important;left:700px!important}}@media only screen and (max-width:1400px){.paralax_1_6{left:1045px!important}.paralax_1_7{top:410px!important;left:1220px!important}.paralax_2_3{top:250px!important;left:1200px!important}.paralax_2_2{top:960px!important;left:700px!important}.container{max-width:1230px}#main-menu{max-width:520px}.menu{margin-right:40px}.header-social{margin-left:60px}.header-phone{margin-left:15px}.corporate_network_right img{margin-top:0}.corporate_network_image_block img{max-width:375px}.partnership_left{margin-right:20px}.about_fl img{max-width:500px;width:100%;max-height:100%;margin-right:40px}.fl_1 img{max-width:600px}.slider-nav{max-width:540px;margin-left:590px}.join_fl .join_block_l img{margin-top:60px;max-width:645px;width:100%}}@media only screen and (max-width:1366px){.paralax_1_6{left:1022px!important}.paralax_1_7{top:430px!important;left:1220px!important}.paralax_2_3{top:270px!important;left:1200px!important}.paralax_2_2{top:985px!important;left:700px!important}.slider-nav{max-width:540px;margin-left:580px}}@media only screen and (max-width:1280px){.paralax_1_6{left:925px!important}.paralax_1_7{top:430px!important;left:1150px!important}.paralax_2_3{top:270px!important;left:1100px!important}.paralax_2_2{top:1015px!important;left:600px!important}}@media only screen and (max-width:1024px){.about_fl img{max-width:400px;max-height:250px}#main-menu li{margin-bottom:10px}.menu{max-width:430px;margin-right:0}.header-social{margin-left:40px}.header-phone{margin-left:15px}.parallax_1,.parallax_2,.parallax_3{display:none}.container{max-width:100%}.corporate_network_image_block{padding:0}.corporate_network_image_block img{max-width:310px}.partnership .container{padding-left:20px}.slider-nav{display:none}.fl_1 img{max-width:500px}.corporate_network_right img{width:900px;max-width:auto;margin-left:-50px;margin-top:-50px}.join_fl .join_block_l img{margin-top:200px}}@media only screen and (max-width:834px){.menu{max-width:290px}.header-social{margin-left:10px}.header-phone-txt{font-size:18px}.corporate_network_right{display:none}.corporate_network_image_block{margin-top:20px}.corporate_network_image_block img{max-width:260px}.partnership .container{padding-top:100px}.partnership_fl,.partnership_left{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.partnership_left{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.about_fl img,.fl_1 img{max-width:400px}.news_block a img{max-width:370px}.join_fl .join_block_l img{margin-top:100px}.fotter_block_1 .fotter_mail img,.fotter_block_1 .fotter_tell img,.fotter_block_2 .fotter_tell img{margin-right:5px}}@media only screen and (max-width:768px){.menu{max-width:220px}.corporate_network_image_block img{max-width:230px}.about_fl img{max-width:350px;max-height:280px}}@media only screen and (max-width:375px){.corporate_number_r .price_span{font-size:35px}.corporate_number_l,.corporate_number_r{margin-right:10px}.corporate_number_r .corporate_number_bot,.corporate_number_r .corporate_number_top{padding-left:10px}}img.lazy{display:none}</style><link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="preload" as="style" onload="this.rel='stylesheet'"><noscript><link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"></noscript>
+	<link rel="preload" href="http://okraina.cms.demopro.ga/wp-content/themes/okraina/fonts/Montserrat-Medium.woff2" as="font" crossorigin="anonymous">
+	<link rel="preload" href="http://okraina.cms.demopro.ga/wp-content/themes/okraina/fonts/Montserrat-Bold.woff2" as="font" crossorigin="anonymous">
+	<link rel="preload" href="http://okraina.cms.demopro.ga/wp-content/themes/okraina/fonts/Montserrat-Regular.woff2" as="font" crossorigin="anonymous">
+	<link rel="preload" href="http://okraina.cms.demopro.ga/wp-content/themes/okraina/fonts/Montserrat-SemiBold.woff2" as="font" crossorigin="anonymous">
+	<link rel="preload" href="http://okraina.cms.demopro.ga/wp-content/themes/okraina/fonts/Montserrat-ExtraBold.woff2" as="font" crossorigin="anonymous">
+	<link rel="preload" as="style" onload="this.rel='stylesheet'" href="/s/142541.css"><noscript><link rel="stylesheet" href="/s/142541.css"></noscript>
+	
+	
+	
+	
+	<title>Главная - okraina</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="http://okraina.cms.demopro.ga/">
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Главная - okraina" />
+	<meta property="og:url" content="http://okraina.cms.demopro.ga/" />
+	<meta property="og:site_name" content="okraina" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://okraina.cms.demopro.ga/#website","url":"http://okraina.cms.demopro.ga/","name":"okraina","description":"\u0415\u0449\u0451 \u043e\u0434\u0438\u043d \u0441\u0430\u0439\u0442 \u043d\u0430 WordPress","potentialAction":[{"@type":"SearchAction","target":"http://okraina.cms.demopro.ga/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":["WebPage","CollectionPage"],"@id":"http://okraina.cms.demopro.ga/#webpage","url":"http://okraina.cms.demopro.ga/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f - okraina","isPartOf":{"@id":"http://okraina.cms.demopro.ga/#website"},"datePublished":"2021-03-01T13:15:28+00:00","dateModified":"2021-03-03T13:24:08+00:00","breadcrumb":{"@id":"http://okraina.cms.demopro.ga/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["http://okraina.cms.demopro.ga/"]}]},{"@type":"BreadcrumbList","@id":"http://okraina.cms.demopro.ga/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://okraina.cms.demopro.ga/","url":"http://okraina.cms.demopro.ga/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430"}}]}]}</script>
+	
+
+
+
+<link rel="alternate" type="application/rss+xml" title="okraina &raquo; Лента" href="http://okraina.cms.demopro.ga/feed/">
+<link rel="alternate" type="application/rss+xml" title="okraina &raquo; Лента комментариев" href="http://okraina.cms.demopro.ga/comments/feed/">
+
+	
+
+
+<link rel="https://api.w.org/" href="http://okraina.cms.demopro.ga/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://okraina.cms.demopro.ga/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://okraina.cms.demopro.ga/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.6.2" />
+</head>
+
+<body class="home wp-custom-logo hfeed">
+	<main class="page-container">
+		<div class="corporate_network">
+			<div class="parallax_1" id="scene_1">
+		    	<img class="paralax_1_1" src="wp-content/themes/okraina/img/paralax_1_1.webp" alt="" data-depth="1.5">
+		        <img class="paralax_1_2" src="wp-content/themes/okraina/img/paralax_1_2.webp" alt="" data-depth="1.6">
+		        <img class="paralax_1_3" src="wp-content/themes/okraina/img/paralax_1_3.webp" alt="" data-depth="1.7">
+		        <img class="paralax_1_4" src="wp-content/themes/okraina/img/paralax_1_4.webp" alt="" data-depth="1.5">
+		        <img class="paralax_1_5" src="wp-content/themes/okraina/img/paralax_1_5.webp" alt="" data-depth="1.6">
+		        <img class="paralax_1_6" src="wp-content/themes/okraina/img/paralax_1_6.webp" alt="" data-depth="1.7">
+		        <img class="paralax_1_7" src="wp-content/themes/okraina/img/paralax_1_7.webp" alt="" data-depth="1.5">
+		    </div>
+		    <div class="container">
+		    	<div class="header">
+		          <div class="reverse">
+		            <div class="menu">
+		              <nav class="main-nav main-nav-dop" role="navigation">
+		                
+		                <input id="main-menu-state" type="checkbox" />
+		                <label class="main-menu-btn" for="main-menu-state">
+		                  <span class="main-menu-btn-icon"></span> Toggle main menu visibility
+		                </label>
+		                
+		                <ul id="main-menu" class="sm sm-clean">
+		                  <li>
+		                    <a href="#yak1">О нас</a>
+		                  </li>
+		                  <li>
+		                    <a href="#yak2">Преимущества</a>
+		                  </li>
+		                  <li>
+		                    <a href="#yak3">История</a>
+		                  </li>
+		                  <li>
+		                    <a href="#yak4">Новости</a>
+		                  </li>
+		                  <li>
+		                    <a href="#yak5">Контакты</a>
+		                  </li>
+		                </ul>
+		              </nav>
+		            </div>
+		            <div class="logo">
+		              <a href="index.html">
+		              	<a href="http://okraina.cms.demopro.ga/" class="custom-logo-link" rel="home" aria-current="page"><img width="154" height="133" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="custom-logo lazy" alt="okraina" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/logo.png"><noscript><img width="154" height="133" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/logo.png" class="custom-logo" alt="okraina"></noscript></a>						    		                
+		              </a>
+		            </div>
+		          </div>
+		          <div class="header-social">
+		          		            <a class="social-f" href="#" target="_blank">
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/facebook.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/facebook.svg" alt=""></noscript>
+		            </a>
+		            <a class="social-vk" href="#" target="_blank">
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/vk.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/vk.svg" alt=""></noscript>
+		            </a>
+		            <a class="social-inst" href="#" target="_blank">
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/instagram.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/instagram.svg" alt=""></noscript>
+		            </a>
+		          </div>
+		          		          <div class="header-phone">
+		            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/phone-call.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/phone-call.svg" alt=""></noscript>
+		            <div class="widget_text flex_number"><div class="textwidget custom-html-widget"><a class="header-phone-txt" href="tel:+88005551807">8-800-555-18-07</a></div></div>		          </div>
+        		</div>
+
+<div class="corporate_network_fl" data-aos="fade-right" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true">
+          <div class="corporate_network_left">
+						            <div class="heshteg_dop">#ФИРМЕННАЯ СЕТЬ</div>
+			            <h1>ОКРАИНА<br>ВКУСНЕЕ</h1>
+			            <div class="p_dop">Ваш доходный мясной магазин</div>
+			            <div class="flex_corporate_network">
+            	<div role="form" class="wpcf7" id="wpcf7-f6-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f6-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="6" />
+<input type="hidden" name="_wpcf7_version" value="5.4" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><span class="wpcf7-form-control-wrap tel-402"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.4014 16.1458L18.3313 13.0756C17.2348 11.9791 15.3708 12.4178 14.9322 13.8432C14.6032 14.83 13.5067 15.3783 12.5199 15.1589C10.3269 14.6107 7.36639 11.7598 6.81815 9.45721C6.4892 8.47033 7.14709 7.37384 8.13393 7.04493C9.55937 6.60634 9.99796 4.74231 8.90147 3.64582L5.83131 0.575656C4.95412 -0.191885 3.63833 -0.191885 2.87079 0.575656L0.787465 2.65898C-1.29586 4.85196 1.00676 10.6633 6.16026 15.8168C11.3137 20.9703 17.1251 23.3826 19.3181 21.1896L21.4014 19.1063C22.169 18.2291 22.169 16.9133 21.4014 16.1458Z" fill="white"></path></svg><span class="wpcf7-form-control-wrap tel-581"><input type="tel" name="tel-581" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span></span><br />
+<input type="submit" value="Мне интересно!" class="wpcf7-form-control wpcf7-submit btn_main"></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>            </div>
+            <div class="p_dop_1">Нажимая на кнопку, вы даете согласие на обработку своих персональных данных</div>
+            <div class="heshteg_dop">#о нас в цифрах</div>
+            <div class="flex_corporate_network_1">
+              <div class="corporate_number_l">За
+                <br>
+                <span class="number_span">30</span>
+                <br>
+                <span class="days_span">дней</span>
+                <br>Запуск
+                <br>бизнеса
+              </div>
+              <div class="corporate_number_r">
+                <div class="corporate_number_top">до
+                  <br>
+                  <span class="price_span">400 000 ₽</span>
+                  <br>Чистая прибыль
+                </div>
+                <div class="corporate_number_bot">
+                  <span class="six_span">6-12</span>
+                  <span class="mounth_span"> месяцев</span>
+                  <br>Окупаемость
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="corporate_network_right">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="1219" height="827" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/img_main.webp"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/img_main.webp" alt=""></noscript>
+          </div>
+        </div>
+        <div class="corporate_network_image_block">
+        				    <img src="wp-content/uploads/2021/03/rectangle-2-1.png" alt="" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
+			    <img src="wp-content/uploads/2021/03/rectangle-3-1.png" alt="" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="350" data-aos-once="true">
+			    <img src="wp-content/uploads/2021/03/rectangle-4-1.png" alt="" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="500" data-aos-once="true">
+			        </div>
+      </div>
+    </div>
+    <div class="partnership" id="yak2">
+      <div class="container">
+        <div class="partnership_fl" data-aos="fade-right" data-aos-offset="400" data-aos-duration="1000" data-aos-once="true">
+          <div class="partnership_left" data-aos="fade-right" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true">
+          	            <div class="partnership_left_txt_open">мы уже открыли!</div>
+            <div class="partnership_left_txt_number">37</div>
+            <div class="partnership_left_txt_magazine">магазинов</div>
+            <div class="heshteg_grey">#онлайн-счётчик</div>
+            <a class="btn_main" id="pop" href="#text-popup" target="_blank">Стать партнёром</a>
+                        <div id="text-popup" class="white-popup mfp-hide">
+              <div class="pop_partnership">
+                <div class="heshteg_black">#Мы готовы рассмотреть партнерство</div>
+                <div class="partnership_p">Введите свои данные и мы Вам перезвоним</div>
+                <div role="form" class="wpcf7" id="wpcf7-f139-o2" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f139-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="139" />
+<input type="hidden" name="_wpcf7_version" value="5.4" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f139-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><span class="wpcf7-form-control-wrap text-22"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.99996 9.78131C12.2236 9.78131 14.0264 7.59171 14.0264 4.89069C14.0264 2.1896 13.4345 0 9.99996 0C6.56539 0 5.97339 2.1896 5.97339 4.89069C5.97339 7.59171 7.77619 9.78131 9.99996 9.78131Z" fill="#4D434B"></path>
+<path d="M2.39483 17.2489C2.39415 17.0842 2.39346 17.2025 2.39483 17.2489V17.2489Z" fill="#4D434B"></path>
+<path d="M17.605 17.3774C17.6071 17.3323 17.6057 17.0646 17.605 17.3774V17.3774Z" fill="#4D434B"></path>
+<path d="M17.5963 17.0512C17.5217 12.3459 16.9072 11.0052 12.2048 10.1565C12.2048 10.1565 11.5428 11 9.99997 11C8.45712 11 7.79506 10.1565 7.79506 10.1565C3.14392 10.9959 2.49203 12.3168 2.40632 16.8983C2.39929 17.2724 2.39603 17.2921 2.39478 17.2487C2.39506 17.33 2.3954 17.4806 2.3954 17.743C2.3954 17.743 3.51495 19.9999 9.99997 19.9999C16.4849 19.9999 17.6045 17.743 17.6045 17.743C17.6045 17.5744 17.6047 17.4571 17.6048 17.3774C17.6036 17.4042 17.6011 17.3522 17.5963 17.0512Z" fill="#4D434B"></path></svg><span class="wpcf7-form-control-wrap text-146"><input type="text" name="text-146" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span></span><br />
+<span class="wpcf7-form-control-wrap tel-485"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0)">
+<path d="M17.5102 13.2102L14.9983 10.6982C14.1012 9.80111 12.576 10.16 12.2172 11.3262C11.948 12.1337 11.0509 12.5822 10.2435 12.4028C8.44925 11.9542 6.02701 9.62168 5.57845 7.73772C5.30931 6.93027 5.84759 6.03314 6.655 5.76404C7.82127 5.40519 8.18012 3.88007 7.28299 2.98295L4.77104 0.470991C4.05334 -0.156997 2.97678 -0.156997 2.3488 0.470991L0.644257 2.17553C-1.06028 3.96978 0.823682 8.72455 5.04018 12.941C9.25667 17.1575 14.0114 19.1313 15.8057 17.337L17.5102 15.6324C18.1383 14.9147 18.1383 13.8382 17.5102 13.2102Z" fill="#4D434B"></path></g><defs><clipPath id="clip0"><rect width="18" height="18" fill="white"></rect></clipPath></defs></svg><span class="wpcf7-form-control-wrap tel-149"><input type="tel" name="tel-149" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span></span><br />
+<input type="submit" value="Отправить заявку" class="wpcf7-form-control wpcf7-submit btn_main"></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                
+                <div class="partnership_p_dop">*Нажимая на кнопку, вы даете согласие на обработку своих персональных данных</div>
+              </div>
+            </div>
+          </div>
+          <div class="partnership_right" data-aos="fade-left" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true">
+          	            <div class="heshteg_grey">#Мы готовы рассмотреть партнерство</div>
+            <div class="oblast_block">
+              <div class="oblast_block_l">
+                <div class="murm_oblast">Мурманская область:</div>
+                <div>Кировск</div>
+                <div>Никель</div>
+                <div>Мончегорск </div>
+                <div>Оленегорск </div>
+              </div>
+              <div class="oblast_block_r">
+                <div class="len_oblast">Ленинградская область:</div>
+                <div class="len_oblast_flex">
+                  <div class="len_oblast_column">
+                    <div>Кингисепп</div>
+                    <div>Сосновый Бор</div>
+                    <div>Ломоносов</div>
+                    <div>Гатчина</div>
+                    <div>Выборг </div>
+                  </div>
+                  <div class="len_oblast_column">
+                    <div>Луга</div>
+                    <div>Тосно</div>
+                    <div>Кириши</div>
+                    <div>Тихвин </div>
+                  </div>
+                  <div class="len_oblast_column">
+                    <div>Кировск</div>
+                    <div>Кировск</div>
+                    <div>Всеволожск</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+    <div class="about" id="yak1">
+      <div class="container">
+        <div class="about_fl" data-aos="fade-right" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="650" height="334" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle-14.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle-14.png" alt=""></noscript>
+          <div class="about_right">
+            <section data-scrollbar id="my-scrollbar">
+              <div class="scroll-content">
+					<div class="heshteg_black">#ОБ ОКРАИНЕ</div>
+	                <div class="p_main">Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии.Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии.Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники, блинчики на самый взыскательный вкус.Покупатели фирменной сети могут первыми оценить новинки, поучаствовать в дегустациях, купить эксклюзивную продукцию, которой нет в других магазинах.  Свежесть. Цены. Выбор. Качество. Вкус. За этим к нам приходят и возвращаются</div>
+				              </div>
+              <div class="scrollbar-track scrollbar-track-y">
+                <div class="scrollbar-thumb scrollbar-thumb-y"></div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="model">
+      <div class="parallax_2" id="scene_2">
+        <img class="paralax_2_1" src="wp-content/themes/okraina/img/paralax_2_1.png" alt="" data-depth="1.5">
+        <img class="paralax_2_2" src="wp-content/themes/okraina/img/paralax_2_2.png" alt="" data-depth="1.6">
+        <img class="paralax_2_3" src="wp-content/themes/okraina/img/paralax_2_3.png" alt="" data-depth="1.7">
+      </div>
+      <div class="container">
+        <div class="model_fl" data-aos="fade-up" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true" id="scroll">
+                    <div class="model_fl_money">ПАУШАЛЬНЫЙ ВЗНОС            <br>
+            <span class="number">200 000 ₽</span>
+          </div>
+                              <div class="model_fl_royal">РОЯЛТИ            <br>
+            <span class="number">10 000 ₽</span>
+          </div>
+                              <div class="model_fl_home">ПОМЕЩЕНИЕ<span>
+              </spa>
+              <span class="txt">от</span>
+              <span class="number">20</span>
+              <span class="txt">м2</span>
+            </span>
+          </div>
+                    <a class="btn_main" id="linkHref" href="#yak5" target="_blank">Получить финансовую модель</a>
+        </div>
+        <div class="model_fl_1">
+          <div class="model_block_l" data-aos="fade-right" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true" id="scroll_2">
+            <div class="model_block_l_cart">
+              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="310" height="528" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/Rectangle 22.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/Rectangle 22.png" alt=""></noscript>
+              <div class="corner">
+              	                <div class="corner_block_title">
+                  <div class="corner_title">Фирменный корнер</div>
+                  <div class="corner_metr">
+                    <span class="number">20-25</span>
+                    <span class="txt">м2</span>
+                  </div>
+                </div>
+                <div class="corner_block_rows">
+                  <div class="row">Вложения:<span class="bold_600">800-950 тыс. р.</span>
+                  </div>
+                  <hr>
+                  <br>
+                  <div class="row">Оборудование:<span class="bold_600">350-450 тыс. р.</span>
+                  </div>
+                  <div class="row">Оформление, интерьер:<span class="bold_600">150-200 тыс. р.</span>
+                  </div>
+                  <div class="row">Товарное наполнение:<span class="bold_600">100 тыс. р.</span>
+                  </div>
+                  <div class="row">Паушальный взнос:<span class="bold_600">200 тыс. р.</span>
+                  </div>
+                  <br>
+                  <br>
+                  <div class="row_1">Чистая прибыль:<span class="bold_600_green">150 000 – 250 000 ₽</span>
+                  </div>
+                  <div class="row_1">Срок окупаемости:<span class="bold_600_green">6 – 10 месяцев</span>
+                  </div>
+                </div>
+                              </div>
+            </div>
+            <a class="btn_main" href="#yak5" target="_blank">Получить финансовую модель</a>
+          </div>
+          <div class="model_block_r" data-aos="fade-left" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true" id="scroll_3">
+            <div class="model_block_r_cart">
+              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="310" height="528" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/Rectangle 24.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/Rectangle 24.png" alt=""></noscript>
+              <div class="magazine">
+              	                <div class="magazine_block_title">
+                  <div class="magazine_title">Фирменный магазин</div>
+                  <div class="magazine_metr">
+                    <span class="number">35-60</span>
+                    <span class="txt">м2</span>
+                  </div>
+                </div>
+                <div class="magazine_block_rows">
+                  <div class="row">Вложения:<span class="bold_600">1100-1350 тыс. р.</span>
+                  </div>
+                  <hr>
+                  <br>
+                  <div class="row">Оборудование:<span class="bold_600">500- 700 тыс. р.</span>
+                  </div>
+                  <div class="row">Оформление, интерьер:<span class="bold_600">200-250 тыс. р.</span>
+                  </div>
+                  <div class="row">Товарное наполнение:<span class="bold_600">200 тыс. р.</span>
+                  </div>
+                  <div class="row">Паушальный взнос:<span class="bold_600">200 тыс. р.</span>
+                  </div>
+                  <br>
+                  <br>
+                  <div class="row_1">Чистая прибыль:<span class="bold_600_green">200 000 – 350 000 ₽</span>
+                  </div>
+                  <div class="row_1">Срок окупаемости:<span class="bold_600_green">6 – 12 месяцев</span>
+                  </div>
+                </div>
+                              </div>
+            </div>
+            <a class="btn_main" href="#yak5" target="_blank">Получить финансовую модель</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="success_story" id="yak3">
+      <div class="container">
+        <div class="slider-for">
+        							<a class="slider-dop">
+		            <div class="fl_1">
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="730" height="592" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"></noscript>
+		              <div class="fl_2">
+		                <div class="success_story_title_1">
+		                  <div class="heshteg_black">#Истории успеха</div>
+		                  <button class="btn_main" id="pop_1" href="#text-popup_1">
+		                    <div class="circle_plus">+</div>
+		                    <div class="btn_main_txt">Присоединиться</div>
+		                  </button>
+		                </div>
+		                <div class="success_story_title_2">
+		                  <div class="block_title">
+		                    <span>Магазин 1</span>
+		                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/99.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/99.svg" alt=""></noscript>
+		                  </div>
+		                  <div class="p_main">Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники, блинчики на самый взыскательный вкус.</div>
+		                </div>
+		              </div>
+		            </div>
+		        </a>
+							<a class="slider-dop">
+		            <div class="fl_1">
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="730" height="592" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"></noscript>
+		              <div class="fl_2">
+		                <div class="success_story_title_1">
+		                  <div class="heshteg_black">#Истории успеха</div>
+		                  <button class="btn_main" id="pop_1" href="#text-popup_1">
+		                    <div class="circle_plus">+</div>
+		                    <div class="btn_main_txt">Присоединиться</div>
+		                  </button>
+		                </div>
+		                <div class="success_story_title_2">
+		                  <div class="block_title">
+		                    <span>Магазин 2</span>
+		                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/99.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/99.svg" alt=""></noscript>
+		                  </div>
+		                  <div class="p_main">Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники, блинчики на самый взыскательный вкус.</div>
+		                </div>
+		              </div>
+		            </div>
+		        </a>
+							<a class="slider-dop">
+		            <div class="fl_1">
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="730" height="592" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"></noscript>
+		              <div class="fl_2">
+		                <div class="success_story_title_1">
+		                  <div class="heshteg_black">#Истории успеха</div>
+		                  <button class="btn_main" id="pop_1" href="#text-popup_1">
+		                    <div class="circle_plus">+</div>
+		                    <div class="btn_main_txt">Присоединиться</div>
+		                  </button>
+		                </div>
+		                <div class="success_story_title_2">
+		                  <div class="block_title">
+		                    <span>Магазин 3</span>
+		                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/99.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/99.svg" alt=""></noscript>
+		                  </div>
+		                  <div class="p_main">Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники, блинчики на самый взыскательный вкус.</div>
+		                </div>
+		              </div>
+		            </div>
+		        </a>
+					        </div>
+        <div class="pop_great">
+        	<div class="cirle_ico"><svg width="21" height="17" viewBox="0 0 21 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 8.5L9.48 15L19 2" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          	<div class="heshteg_black">#спасибо</div>
+          	<div class="text_pop">Ваша заявка отправлена, мы перезвоним</div>
+        </div>
+        <div id="text-popup_1" class="white-popup mfp-hide">
+          <div class="pop_partnership">
+            <div class="heshteg_black">#Мы готовы рассмотреть партнерство</div>
+            <div class="partnership_p">Введите свои данные и мы Вам перезвоним</div>
+            <div class="pop_great_2">
+		    	<div class="cirle_ico"><svg width="21" height="17" viewBox="0 0 21 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 8.5L9.48 15L19 2" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+		    	<div class="heshteg_black">#спасибо</div>
+		    	<div class="text_pop">Ваша заявка отправлена, мы перезвоним</div>
+          	</div>
+            <div role="form" class="wpcf7" id="wpcf7-f139-o3" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f139-o3" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="139" />
+<input type="hidden" name="_wpcf7_version" value="5.4" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f139-o3" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><span class="wpcf7-form-control-wrap text-22"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.99996 9.78131C12.2236 9.78131 14.0264 7.59171 14.0264 4.89069C14.0264 2.1896 13.4345 0 9.99996 0C6.56539 0 5.97339 2.1896 5.97339 4.89069C5.97339 7.59171 7.77619 9.78131 9.99996 9.78131Z" fill="#4D434B"></path>
+<path d="M2.39483 17.2489C2.39415 17.0842 2.39346 17.2025 2.39483 17.2489V17.2489Z" fill="#4D434B"></path>
+<path d="M17.605 17.3774C17.6071 17.3323 17.6057 17.0646 17.605 17.3774V17.3774Z" fill="#4D434B"></path>
+<path d="M17.5963 17.0512C17.5217 12.3459 16.9072 11.0052 12.2048 10.1565C12.2048 10.1565 11.5428 11 9.99997 11C8.45712 11 7.79506 10.1565 7.79506 10.1565C3.14392 10.9959 2.49203 12.3168 2.40632 16.8983C2.39929 17.2724 2.39603 17.2921 2.39478 17.2487C2.39506 17.33 2.3954 17.4806 2.3954 17.743C2.3954 17.743 3.51495 19.9999 9.99997 19.9999C16.4849 19.9999 17.6045 17.743 17.6045 17.743C17.6045 17.5744 17.6047 17.4571 17.6048 17.3774C17.6036 17.4042 17.6011 17.3522 17.5963 17.0512Z" fill="#4D434B"></path></svg><span class="wpcf7-form-control-wrap text-146"><input type="text" name="text-146" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span></span><br />
+<span class="wpcf7-form-control-wrap tel-485"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0)">
+<path d="M17.5102 13.2102L14.9983 10.6982C14.1012 9.80111 12.576 10.16 12.2172 11.3262C11.948 12.1337 11.0509 12.5822 10.2435 12.4028C8.44925 11.9542 6.02701 9.62168 5.57845 7.73772C5.30931 6.93027 5.84759 6.03314 6.655 5.76404C7.82127 5.40519 8.18012 3.88007 7.28299 2.98295L4.77104 0.470991C4.05334 -0.156997 2.97678 -0.156997 2.3488 0.470991L0.644257 2.17553C-1.06028 3.96978 0.823682 8.72455 5.04018 12.941C9.25667 17.1575 14.0114 19.1313 15.8057 17.337L17.5102 15.6324C18.1383 14.9147 18.1383 13.8382 17.5102 13.2102Z" fill="#4D434B"></path></g><defs><clipPath id="clip0"><rect width="18" height="18" fill="white"></rect></clipPath></defs></svg><span class="wpcf7-form-control-wrap tel-149"><input type="tel" name="tel-149" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span></span><br />
+<input type="submit" value="Отправить заявку" class="wpcf7-form-control wpcf7-submit btn_main"></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>            <div class="pop_great">
+	        	<div class="cirle_ico"><svg width="21" height="17" viewBox="0 0 21 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 8.5L9.48 15L19 2" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+	          	<div class="heshteg_black">#спасибо</div>
+	          	<div class="text_pop">Ваша заявка отправлена, мы перезвоним</div>
+        	</div>
+            <div class="partnership_p_dop">*Нажимая на кнопку, вы даете согласие на обработку своих <span>персональных данных</span>
+            </div>
+          </div>
+          
+        </div>
+        <div id="text-popup_2" class="white-popup mfp-hide">
+          <div class="pop_partnership">
+            <div class="heshteg_black">#Мы готовы рассмотреть партнерство</div>
+            <div class="partnership_p">Введите свои данные и мы Вам перезвоним</div>
+            <form>
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9.99996 9.78131C12.2236 9.78131 14.0264 7.59171 14.0264 4.89069C14.0264 2.1896 13.4345 0 9.99996 0C6.56539 0 5.97339 2.1896 5.97339 4.89069C5.97339 7.59171 7.77619 9.78131 9.99996 9.78131Z" fill="#4D434B" />
+                <path d="M2.39483 17.2489C2.39415 17.0842 2.39346 17.2025 2.39483 17.2489V17.2489Z" fill="#4D434B" />
+                <path d="M17.605 17.3774C17.6071 17.3323 17.6057 17.0646 17.605 17.3774V17.3774Z" fill="#4D434B" />
+                <path d="M17.5963 17.0512C17.5217 12.3459 16.9072 11.0052 12.2048 10.1565C12.2048 10.1565 11.5428 11 9.99997 11C8.45712 11 7.79506 10.1565 7.79506 10.1565C3.14392 10.9959 2.49203 12.3168 2.40632 16.8983C2.39929 17.2724 2.39603 17.2921 2.39478 17.2487C2.39506 17.33 2.3954 17.4806 2.3954 17.743C2.3954 17.743 3.51495 19.9999 9.99997 19.9999C16.4849 19.9999 17.6045 17.743 17.6045 17.743C17.6045 17.5744 17.6047 17.4571 17.6048 17.3774C17.6036 17.4042 17.6011 17.3522 17.5963 17.0512Z" fill="#4D434B" />
+              </svg>
+              <input type="text">
+            </form>
+            <form>
+              <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0)">
+                  <path d="M17.5102 13.2102L14.9983 10.6982C14.1012 9.80111 12.576 10.16 12.2172 11.3262C11.948 12.1337 11.0509 12.5822 10.2435 12.4028C8.44925 11.9542 6.02701 9.62168 5.57845 7.73772C5.30931 6.93027 5.84759 6.03314 6.655 5.76404C7.82127 5.40519 8.18012 3.88007 7.28299 2.98295L4.77104 0.470991C4.05334 -0.156997 2.97678 -0.156997 2.3488 0.470991L0.644257 2.17553C-1.06028 3.96978 0.823682 8.72455 5.04018 12.941C9.25667 17.1575 14.0114 19.1313 15.8057 17.337L17.5102 15.6324C18.1383 14.9147 18.1383 13.8382 17.5102 13.2102Z" fill="#4D434B" />
+                </g>
+                <defs>
+                  <clipPath id="clip0">
+                    <rect width="18" height="18" fill="white" />
+                  </clipPath>
+                </defs>
+              </svg>
+              <input type="tel">
+            </form>
+            <div class="btn_main">Отправить заявку</div>
+            <div class="partnership_p_dop">*Нажимая на кнопку, вы даете согласие на обработку своих <span>персональных данных</span>
+            </div>
+          </div>
+        </div>
+        <div id="text-popup_3" class="white-popup mfp-hide">
+          <div class="pop_partnership">
+            <div class="heshteg_black">#Мы готовы рассмотреть партнерство</div>
+            <div class="partnership_p">Введите свои данные и мы Вам перезвоним</div>
+            <form>
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9.99996 9.78131C12.2236 9.78131 14.0264 7.59171 14.0264 4.89069C14.0264 2.1896 13.4345 0 9.99996 0C6.56539 0 5.97339 2.1896 5.97339 4.89069C5.97339 7.59171 7.77619 9.78131 9.99996 9.78131Z" fill="#4D434B" />
+                <path d="M2.39483 17.2489C2.39415 17.0842 2.39346 17.2025 2.39483 17.2489V17.2489Z" fill="#4D434B" />
+                <path d="M17.605 17.3774C17.6071 17.3323 17.6057 17.0646 17.605 17.3774V17.3774Z" fill="#4D434B" />
+                <path d="M17.5963 17.0512C17.5217 12.3459 16.9072 11.0052 12.2048 10.1565C12.2048 10.1565 11.5428 11 9.99997 11C8.45712 11 7.79506 10.1565 7.79506 10.1565C3.14392 10.9959 2.49203 12.3168 2.40632 16.8983C2.39929 17.2724 2.39603 17.2921 2.39478 17.2487C2.39506 17.33 2.3954 17.4806 2.3954 17.743C2.3954 17.743 3.51495 19.9999 9.99997 19.9999C16.4849 19.9999 17.6045 17.743 17.6045 17.743C17.6045 17.5744 17.6047 17.4571 17.6048 17.3774C17.6036 17.4042 17.6011 17.3522 17.5963 17.0512Z" fill="#4D434B" />
+              </svg>
+              <input type="text">
+            </form>
+            <form>
+              <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0)">
+                  <path d="M17.5102 13.2102L14.9983 10.6982C14.1012 9.80111 12.576 10.16 12.2172 11.3262C11.948 12.1337 11.0509 12.5822 10.2435 12.4028C8.44925 11.9542 6.02701 9.62168 5.57845 7.73772C5.30931 6.93027 5.84759 6.03314 6.655 5.76404C7.82127 5.40519 8.18012 3.88007 7.28299 2.98295L4.77104 0.470991C4.05334 -0.156997 2.97678 -0.156997 2.3488 0.470991L0.644257 2.17553C-1.06028 3.96978 0.823682 8.72455 5.04018 12.941C9.25667 17.1575 14.0114 19.1313 15.8057 17.337L17.5102 15.6324C18.1383 14.9147 18.1383 13.8382 17.5102 13.2102Z" fill="#4D434B" />
+                </g>
+                <defs>
+                  <clipPath id="clip0">
+                    <rect width="18" height="18" fill="white" />
+                  </clipPath>
+                </defs>
+              </svg>
+              <input type="tel">
+            </form>
+            <div class="btn_main">Отправить заявку</div>
+            <div class="partnership_p_dop">*Нажимая на кнопку, вы даете согласие на обработку своих <span>персональных данных</span>
+            </div>
+          </div>
+        </div>
+        <div class="flex_slider_nav">
+          <div class="slider-nav">
+          	
+												 <a class="sl">
+			            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="730" height="592" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png" alt=""></noscript>
+			            <div class="slider-nav_title">Магазин 1</div>
+		            </a>
+									 <a class="sl">
+			            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="730" height="592" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png" alt=""></noscript>
+			            <div class="slider-nav_title">Магазин 2</div>
+		            </a>
+									 <a class="sl">
+			            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="730" height="592" data-src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/rectangle_39-2.png" alt=""></noscript>
+			            <div class="slider-nav_title">Магазин 3</div>
+		            </a>
+							          </div>
+          <div class="slider-nav-btn">
+            <a class="arrow_prev">
+              <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3.93402e-07 8L13.5 15.7942L13.5 0.205771L3.93402e-07 8Z" fill="white" />
+              </svg>
+            </a>
+            <a class="arrow_next">
+              <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 8L0.499999 15.7942L0.5 0.205771L14 8Z" fill="white" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="news">
+      <div class="parallax_3" id="scene_3">
+        <img class="paralax_3_1" src="wp-content/themes/okraina/img/paralax_3_1.png" alt="" data-depth="1.2">
+        <img class="paralax_3_2" src="wp-content/themes/okraina/img/paralax_3_2.png" alt="" data-depth="1.3">
+        <img class="paralax_3_3" src="wp-content/themes/okraina/img/paralax_3_3.png" alt="" data-depth="1.4">
+        <img class="paralax_3_4" src="wp-content/themes/okraina/img/paralax_3_4.png" alt="" data-depth="1.2">
+        <img class="paralax_3_5" src="wp-content/themes/okraina/img/paralax_3_5.png" alt="" data-depth="1.3">
+        <img class="paralax_3_6" src="wp-content/themes/okraina/img/paralax_3_6.png" alt="" data-depth="1.4">
+        <img class="paralax_3_7" src="wp-content/themes/okraina/img/paralax_3_7.png" alt="" data-depth="1.2">
+      </div>
+      <div class="container" id="yak4">
+        <div class="heshteg_black">#новости</div>
+        <div class="news_blocks">
+        
+									<div class="news_block" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
+		            <a>
+		              <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-full size-full wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_1-1.png 370w,wp-content/uploads/2021/03/img_1-1-300x169.png 300w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_1-1.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_1-1.png" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_1-1.png 370w,wp-content/uploads/2021/03/img_1-1-300x169.png 300w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		            </a>
+		            <a class="news_block_title">Выбор сырь 4</a>
+		            <div class="p_main"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</div>
+		            <a class="news_block_btn" id="e_" href="#p_">
+		              <div class="news_block_btn_txt">Посмотреть</div>
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg" alt=""></noscript>
+		            </a>
+		        </div>
+		        <div id="p_" class="white-popup_1 mfp-hide">
+		            <div class="pop_news">
+		              <div class="pop_news_fl">
+		                <div class="pop_news_fl_l">
+		                  <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_1-1.png 370w,wp-content/uploads/2021/03/img_1-1-300x169.png 300w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_1-1.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_1-1.png 370w,wp-content/uploads/2021/03/img_1-1-300x169.png 300w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		                  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="488" height="209" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png" alt=""></noscript>
+		                </div>
+		                <div class="pop_news_fl_r">
+		                  <div class="pop_news_fl_r_title">Выбор сырь 4</div>
+		                  <div class="pop_news_fl_r_txt"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</div>
+		                </div>
+		              </div>
+		              <p class="pop_news_fl_p"> <p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</p>
+		            </div>
+          		</div>
+							<div class="news_block" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
+		            <a>
+		              <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-full size-full wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_2-1.png 370w,wp-content/uploads/2021/03/img_2-1-300x169.png 300w,wp-content/uploads/2021/03/img_2-1-320x181.png 320w,wp-content/uploads/2021/03/img_2-1-360x203.png 360w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_2-1.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_2-1.png" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_2-1.png 370w,wp-content/uploads/2021/03/img_2-1-300x169.png 300w,wp-content/uploads/2021/03/img_2-1-320x181.png 320w,wp-content/uploads/2021/03/img_2-1-360x203.png 360w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		            </a>
+		            <a class="news_block_title">Выбор сырья 3</a>
+		            <div class="p_main"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</div>
+		            <a class="news_block_btn" id="e_1" href="#p_1">
+		              <div class="news_block_btn_txt">Посмотреть</div>
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg" alt=""></noscript>
+		            </a>
+		        </div>
+		        <div id="p_1" class="white-popup_1 mfp-hide">
+		            <div class="pop_news">
+		              <div class="pop_news_fl">
+		                <div class="pop_news_fl_l">
+		                  <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_2-1.png 370w,wp-content/uploads/2021/03/img_2-1-300x169.png 300w,wp-content/uploads/2021/03/img_2-1-320x181.png 320w,wp-content/uploads/2021/03/img_2-1-360x203.png 360w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_2-1.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_2-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_2-1.png 370w,wp-content/uploads/2021/03/img_2-1-300x169.png 300w,wp-content/uploads/2021/03/img_2-1-320x181.png 320w,wp-content/uploads/2021/03/img_2-1-360x203.png 360w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		                  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="488" height="209" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png" alt=""></noscript>
+		                </div>
+		                <div class="pop_news_fl_r">
+		                  <div class="pop_news_fl_r_title">Выбор сырья 3</div>
+		                  <div class="pop_news_fl_r_txt"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</div>
+		                </div>
+		              </div>
+		              <p class="pop_news_fl_p"> <p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</p>
+		            </div>
+          		</div>
+							<div class="news_block" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
+		            <a>
+		              <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-full size-full wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_3.png 370w,wp-content/uploads/2021/03/img_3-300x169.png 300w,wp-content/uploads/2021/03/img_3-320x181.png 320w,wp-content/uploads/2021/03/img_3-360x203.png 360w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_3.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_3.png" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_3.png 370w,wp-content/uploads/2021/03/img_3-300x169.png 300w,wp-content/uploads/2021/03/img_3-320x181.png 320w,wp-content/uploads/2021/03/img_3-360x203.png 360w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		            </a>
+		            <a class="news_block_title">Выбор сырья 2</a>
+		            <div class="p_main"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</div>
+		            <a class="news_block_btn" id="e_2" href="#p_2">
+		              <div class="news_block_btn_txt">Посмотреть</div>
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg" alt=""></noscript>
+		            </a>
+		        </div>
+		        <div id="p_2" class="white-popup_1 mfp-hide">
+		            <div class="pop_news">
+		              <div class="pop_news_fl">
+		                <div class="pop_news_fl_l">
+		                  <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_3.png 370w,wp-content/uploads/2021/03/img_3-300x169.png 300w,wp-content/uploads/2021/03/img_3-320x181.png 320w,wp-content/uploads/2021/03/img_3-360x203.png 360w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_3.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_3.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_3.png 370w,wp-content/uploads/2021/03/img_3-300x169.png 300w,wp-content/uploads/2021/03/img_3-320x181.png 320w,wp-content/uploads/2021/03/img_3-360x203.png 360w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		                  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="488" height="209" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png" alt=""></noscript>
+		                </div>
+		                <div class="pop_news_fl_r">
+		                  <div class="pop_news_fl_r_title">Выбор сырья 2</div>
+		                  <div class="pop_news_fl_r_txt"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</div>
+		                </div>
+		              </div>
+		              <p class="pop_news_fl_p"> <p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники…</p>
+</p>
+		            </div>
+          		</div>
+							<div class="news_block" data-aos="zoom-in" data-aos-offset="200" data-aos-duration="800" data-aos-delay="200" data-aos-once="true">
+		            <a>
+		              <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-full size-full wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_4.png 370w,wp-content/uploads/2021/03/img_4-300x169.png 300w,wp-content/uploads/2021/03/img_4-320x181.png 320w,wp-content/uploads/2021/03/img_4-360x203.png 360w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_4.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_4.png" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_4.png 370w,wp-content/uploads/2021/03/img_4-300x169.png 300w,wp-content/uploads/2021/03/img_4-320x181.png 320w,wp-content/uploads/2021/03/img_4-360x203.png 360w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		            </a>
+		            <a class="news_block_title">Выбор сырья</a>
+		            <div class="p_main"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники&#8230;</p>
+</div>
+		            <a class="news_block_btn" id="e_3" href="#p_3">
+		              <div class="news_block_btn_txt">Посмотреть</div>
+		              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/witness_1.svg" alt=""></noscript>
+		            </a>
+		        </div>
+		        <div id="p_3" class="white-popup_1 mfp-hide">
+		            <div class="pop_news">
+		              <div class="pop_news_fl">
+		                <div class="pop_news_fl_l">
+		                  <img width="370" height="209" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy" alt="" loading="lazy" sizes="(max-width: 370px) 100vw, 370px" data-srcset="wp-content/uploads/2021/03/img_4.png 370w,wp-content/uploads/2021/03/img_4-300x169.png 300w,wp-content/uploads/2021/03/img_4-320x181.png 320w,wp-content/uploads/2021/03/img_4-360x203.png 360w, http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_4.png"><noscript><img width="370" height="209" src="http://okraina.cms.demopro.ga/wp-content/uploads/2021/03/img_4.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="wp-content/uploads/2021/03/img_4.png 370w,wp-content/uploads/2021/03/img_4-300x169.png 300w,wp-content/uploads/2021/03/img_4-320x181.png 320w,wp-content/uploads/2021/03/img_4-360x203.png 360w" sizes="(max-width: 370px) 100vw, 370px"></noscript>		                  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="488" height="209" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/pop_1.png" alt=""></noscript>
+		                </div>
+		                <div class="pop_news_fl_r">
+		                  <div class="pop_news_fl_r_title">Выбор сырья</div>
+		                  <div class="pop_news_fl_r_txt"><p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники&#8230;</p>
+</div>
+		                </div>
+		              </div>
+		              <p class="pop_news_fl_p"> <p>Фирменные магазины Окраина вкуснее – это настоящая находка для ценителей мясной гастрономии. Здесь вы найдёте колбасы, сосиски, деликатесы, пельмени, вареники&#8230;</p>
+</p>
+		            </div>
+          		</div>
+					        </div>
+        <div class="join_fl" id="yak5">
+          <div class="pop_great_1">
+		    	<div class="cirle_ico"><svg width="21" height="17" viewBox="0 0 21 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 8.5L9.48 15L19 2" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+		    	<div class="heshteg_black">#спасибо</div>
+		    	<div class="text_pop">Ваша заявка отправлена, мы перезвоним</div>
+          </div>
+          <div class="join_block_l">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" width="728" height="704" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/join_img.webp"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/join_img.webp" alt=""></noscript>
+          </div>
+          <div class="join_block_r" data-aos="fade-left" data-aos-offset="200" data-aos-duration="1000" data-aos-once="true">
+          	            <div class="heshteg_grey">#присоединяйтесь</div>
+            <div class="join_block_r_title">Постройте выгодный бизнес с ОКРАИНОЙ!</div>
+            <div class="p_main">Задайте свой вопрос нашему менеджеру прямо сейчас:</div>
+            <span class="telefone">8-800-555-18-07</span>
+            <div class="p_main_fl">
+              <div class="p_main">Или напишите нам сейчас:</div>
+              <span class="email"><div class="widget_text flex_number"><div class="textwidget custom-html-widget"><div class="fotter_mail_txt">fr@okraina.ru</div></div></div></span>
+            </div>
+            <div class="flex">
+            	<div role="form" class="wpcf7" id="wpcf7-f137-o4" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f137-o4" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="137" />
+<input type="hidden" name="_wpcf7_version" value="5.4" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f137-o4" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><span class="wpcf7-form-control-wrap tel-863"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.4014 16.1458L18.3313 13.0756C17.2348 11.9791 15.3708 12.4178 14.9322 13.8432C14.6032 14.83 13.5067 15.3783 12.5199 15.1589C10.3269 14.6107 7.36639 11.7598 6.81815 9.45721C6.4892 8.47033 7.14709 7.37384 8.13393 7.04493C9.55937 6.60634 9.99796 4.74231 8.90147 3.64582L5.83131 0.575656C4.95412 -0.191885 3.63833 -0.191885 2.87079 0.575656L0.787465 2.65898C-1.29586 4.85196 1.00676 10.6633 6.16026 15.8168C11.3137 20.9703 17.1251 23.3826 19.3181 21.1896L21.4014 19.1063C22.169 18.2291 22.169 16.9133 21.4014 16.1458Z" fill="#4D434B" /></path></svg><span class="wpcf7-form-control-wrap tel-999"><input type="tel" name="tel-999" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span></span><br />
+<input type="submit" value="Оставить заявку" class="wpcf7-form-control wpcf7-submit btn_main"></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>            	
+            </div>
+            <div class="p_dops">Нажимая на кнопку, вы даете согласие на обработку своих <span>персональных данных</span>
+            </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+
+</main>
+	<div class="fotter">
+    <div class="container">
+      <div class="fotter_block_1">
+        <div class="fotter_title">Отдел франчайзинга:</div>
+        <div class="fotter_tell">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_tell.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_tell.svg" alt=""></noscript>
+          <div class="widget_text flex_number"><div class="textwidget custom-html-widget"><a class="fotter_tell_txt" href="tel:+79210346305">+7-921-034-63-05<span> (Мурманская область)</span></a></div></div>        </div>
+        <div class="fotter_tell">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_tell.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_tell.svg" alt=""></noscript>
+          <div class="widget_text flex_number"><div class="textwidget custom-html-widget"><a class="fotter_tell_txt" href="tel:+79313528619">+7-931-352-86-19<span> (Санкт-Петербург)</span></a></div></div>        </div>
+        <div class="fotter_mail">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_mail.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_mail.svg" alt=""></noscript>
+          <div class="widget_text flex_number"><div class="textwidget custom-html-widget"><div class="fotter_mail_txt">fr@okraina.ru</div></div></div>        </div>
+      </div>
+      <div class="fotter_block_2">
+        <div class="fotter_title">Предложить помещение:</div>
+        <div class="fotter_tell">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_tell.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/fott_tell.svg" alt=""></noscript>
+          <div class="widget_text flex_number"><div class="textwidget custom-html-widget"><a class="fotter_tell_txt" href="tel:+79210346305">+7-921-034-63-05</a></div></div>        </div>
+      </div>
+      <div class="fotter_block_3">
+        <div class="fotter_social">
+                    <a class="social-f" href="#" target="_blank">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/facebook_w.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/facebook_w.svg" alt=""></noscript>
+          </a>
+          <a class="social-vk" href="#" target="_blank">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/vk_w.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/vk_w.svg" alt=""></noscript>
+          </a>
+          <a class="social-inst" href="#" target="_blank">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/instagram_w.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/instagram_w.svg" alt=""></noscript>
+          </a>
+          <a class="social-yt" href="https://www.youtube.com" target="_blank">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="lazy" data-src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/youtube_w.svg"><noscript><img src="http://okraina.cms.demopro.ga/wp-content/themes/okraina/img/youtube_w.svg" alt=""></noscript>
+          </a>
+                  </div>
+        <div class="fotter_reserch">© 2006 - 2021 Окраина</div>
+        <a class="fotter_politics" href="http://okraina.cms.demopro.ga/privacy-policy/">Политика конфиденциальности</a>
+      </div>
+    </div>
+    <div class="mnogolan">
+      <a href="https://mnogoland.ru/">Разработано студией MNOGOLAND</a>
+    </div>
+  </div>
+	
+	<script src="/s/15ccd1.js"></script>
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<script src="/s/53a610.js"></script>
+	
+  
+  
+<script id="wp-polyfill-js-after">
+( 'fetch' in window ) || document.write( '<script src="http://okraina.cms.demopro.ga/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://okraina.cms.demopro.ga/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://okraina.cms.demopro.ga/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://okraina.cms.demopro.ga/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://okraina.cms.demopro.ga/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://okraina.cms.demopro.ga/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src="/s/601a58.js"></script>
+
+<script id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script src="/s/271ef6.js"></script>
+
+<script id="wp-api-fetch-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2021-01-28 20:09:26+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"ru"},"You are probably offline.":["\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0447\u0442\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0441\u0435\u0442\u0438 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u043c\u0435\u0434\u0438\u0430\u0444\u0430\u0439\u043b\u0430 \u043d\u0435 \u0443\u0434\u0430\u043b\u0430\u0441\u044c. \u0415\u0441\u043b\u0438 \u044d\u0442\u043e \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u0438\u043b\u0438 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u0430, \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u0435 \u0435\u0433\u043e \u0438 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u043d\u043e\u0432\u0430."],"An unknown error occurred.":["\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u043e\u0448\u0438\u0431\u043a\u0430."],"The response is not a valid JSON response.":["\u041e\u0442\u0432\u0435\u0442 \u043d\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u044b\u043c \u043e\u0442\u0432\u0435\u0442\u043e\u043c JSON."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script src="/s/3ab2e9.js"></script>
+<script id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://okraina.cms.demopro.ga/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "f9121d387e" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "http://okraina.cms.demopro.ga/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"cached":"1"};
+</script>
+
+
+
+<script src="/s/0690dd.js"></script></body>
+</html>
